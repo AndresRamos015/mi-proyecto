@@ -1,1 +1,1 @@
-# mi-proyecto
+#Proyecto Web - Taller de GitHub. Tecnologías: HTML5, Git, GitHub
